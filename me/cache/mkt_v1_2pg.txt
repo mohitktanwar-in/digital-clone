@@ -1,0 +1,93 @@
+Mohit Kumar
+Data Engineer
+/mobile_phone+91 9953821928 mohitkumartanwar.in@gmail.com /linkedinin/mohitkumar-in
+SUMMARY
+Versatile Digital Engineer with 3 years of experience in development, implementation, optimization and management
+of Data pipelines as well as administering Platform and leading cross-functional projects including Data Science and
+Application development. Developed end to end Dynamic Reports acting as Command Center for Informatica workﬂows
+leading to 60% reduction in workload on Informatica 10.2 servers. Created Command center for Google Bigquery leading
+to 63% reduction in expenses for slots with further scope of improvement by optimizing usage pattern. Implemented end
+to end LLM model for Classiﬁcation with Python leading to 15% increase in classiﬁcation accuracy overall over the existing
+classiﬁcation mechanism. Developed Application for automating existing manual process of a Data Science model.
+SKILLS
+o Machine Learning/Deep Learning o Informatica/IICS o Google Cloud Platform o Python o Looker Studio
+EXPERIENCE
+• Data Engineer, XPO [Sep’22-Present]
+– Salesforce Integration
+∗ Automation of GBQ DDL generation : Reusable python script for object metadata extraction
+from API, preprocessing and datatype mapping between Salesforce and GBQ , ﬁnally, GBQ
+DDL generation. Used in 40+ developments across the team.
+∗ Understanding of MS SQL Server: Tasked with understanding existing SQL Server mappings, optimize
+and generate equivalent Informatica developments updating Salesforce based on GBQ data.
+∗ SME in Salesforce integration: Guided and helped teammates through the development. Single hand-
+edly solved an issue overnight saving a month’s debugging and development time.
+– Samsara/Telematics Integration
+∗ Integrated Samsara APIs with GBQ : Developed Python script for fetching API data and preprocess
+to GBQ expected format. Further using Informatica to load the generated ﬂatﬁle to GBQ.
+– ServiceNow Integration
+∗ Automation of GBQ DDL generation : Reusable python script for object metadata extraction
+from API, preprocessing and datatype mapping between Salesforce and GBQ , ﬁnally, GBQ
+DDL generation. Used in 22 developments, for objects with upto 350+ columns, thus, saving manual
+work and time.
+∗ Cross team collaboration : Facilitated cross team collaboration and decision making for issues encoun-
+tered in developments. Attaining valuable knowledge about ServiceNow platform in the process.
+∗ IICS development: Used IICS mapping task, mappingﬂow and Taskﬂow to integrate Service
+Now objects with Google Big Query. 1
+– Command Center for Informatica monitoring
+∗ Ability to analyse Usage statistics of tables in Google Big Query as against update frequency. Preventing
+over scheduling of workﬂows, grouping workﬂows of high usage tables together, thus, saving resources and
+over usage of servers. Decreased resource consumption by 60% .
+∗ Monitoring and Analysis: A single report for monitoring 170,000+ monthly workﬂow runs with
+option of going to weekly, daily and hourly levels.
+∗ Issue Monitoring: Ability to monitor failure count, failure type, biggest contributors to workﬂow
+failures. Additionally, ability to analyze workﬂows which contribute highest to the failure. Time of the
+day, day of week with highest failures.
+∗ Providing relevant data points to discuss with vendors regarding encountered issues.
+– Command Center for Google Big Query monitoring
+∗ Saved 63% in budget towards renewal of slot purchase plan, amounting to 120,000+$ savings.
+∗ Ability to monitor and analyse slot consumptionin Google Bigquery throughout the day against slot
+reservation. Thus, providing insights into over capacity of slots across diﬀerent times of the day, diﬀerent
+days of the week.
+∗ Ability to identify slot consumption across the teams , leading to eﬃcient allocation of slots across
+the organization.
+∗ Ability to plan slot reservation at diﬀerent times of the day, for eﬃcient consumption of slots and
+minimize overcapacity.
+– LLM model for Email Classiﬁcation
+∗ Impact:Resulted in 15% accuracy increase, amounting to 5000+ additional monthly emails clas-
+siﬁed without manual intervention.
+∗ End to end project implementation: Handled project from cross team collaboration for logic generation
+for dataset, creating pipelines between source system and Google Big Query, SQL for dataset generation,
+preprocessing of text data, modelling of transformers for text classiﬁcation and eventually deployment of
+model on Cloud Run for end user consumption.
+∗ Provided additional capability of Sentiment analysisusing Google’s internal sentiment analysis model.
+Provided guidance on thresholds for categorization between Positive, Neutral and Negative sentiments.
+– DMS Integration for Data Science project
+∗ Workﬂow: Use of Informatica and python to integrate Document Management System, Google Bigquery
+and Google Cloud Storage, loading images into Cloud Storage bucket for Data Science team’s Computer
+Vision project processing 8,000-10,000 records and images everyday.
+∗ Cross team collaboration to gather requirements and logic for developing SQL to fetch relevant data.
+– Google Cloud Platform Admin
+∗ Management of permissions in Google Cloud Platform via IAM roles.
+∗ Terraform for service account creation and permissions grant.
+∗ Google Big Query Datalake and Data Warehouse management.
+∗ Helped teams in integration of products like Alteryx with Google Big Query.
+• Associate Data Engineer , XPO [Jul’21-Sep’22]
+– Oracle Integration
+∗ Developed and managed Data pipelines between Oracle database and Google Big Query.
+– Application for automating manual work
+∗ Developed a python application integrating Google Big Query and Document Management system packaged
+using pyinstaller.
+∗ Saving Data Science team 48+ hours monthly, facilitating transfer of work to other teams.
+INERNSHIP
+• Computer Vision Research Intern, Ai India [Aug’20-Nov’20]
+Exploring suitability of various ML Algorithms for Land Use Land Cover (LULC) Classiﬁcation.
+Queryable Automatic Retrieval of Sentinel 2 Time Series Satellite data of Copernicus.
+Automated Image preprocessing including Atmospheric Correction, Downsampling & Stacking.
+Implementing LightGBM, Catboost and XGBoost in LULC classiﬁcation of Multi-spectral satellite images.
+EDUCATION
+• M.Tech. Geoinformatics [July’19-Jun’21]
+Indian Institute of Technology Bombay
+– CPI/%: 9.58
+• B.Tech. Civil Engineering [July’13-Jun’18]
+Maharishi Dayanand University, Rohtak
+– CPI/%: 64

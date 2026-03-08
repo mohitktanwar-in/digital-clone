@@ -1,0 +1,13 @@
+requests
+python-dotenv
+gradio
+pypdf
+openai
+openai-agents
+pydantic
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+pydantic
+pdfplumber

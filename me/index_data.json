@@ -1,0 +1,52 @@
+{
+  "source": "me/MohitKumarResume.pdf",
+  "full_text": "MOHIT KUMAR\nData Scientist\n91 9953821928 mohitkumartanwar.in@gmail.com linkedin.c\nhttps://huggingface.co/spaces/mhtkmr/professional-clone India\nSUMMARY\nData Scientist with 4.5 years of experience building and deploying\nproduction-grade machine learning systems on GCP. Specialized in\nregression, churn modeling, explainable AI, and LLM-based systems\nincluding Text2SQL and RAG architectures. Proven track record of deli\nmeasurable business impact, including 15% predictive accuracy\nimprovement and $120K annual cost savings.\nEXPERIENCE\nData Scientist\nXPO\n• Developed a Text2SQL Gemini LLM-chatbot with Database-Augm\nGeneration. Enabled domain-specific SQL generation using Pydan\nschemas\n• Built a semantic-layer filtering mechanism to reduce irrelevant LLM\ncontext injection and improve query precision\n• Developed an LLM-based workflow for email classification and\nautomated responses with intelligent document retrieval. Deployed\nserverlessly on Google Cloud Functions with Pub/Sub-based even\nprocessing, handling 10,000 emails per day\n• Engineered compound features and trained XGBoost regression mo\nOptuna tuned), achieving 15% improvement in exact-date ETA\nprediction accuracy. Performed cross-validation and feature impor\nanalysis to ensure model robustness\n• Led a two-tiered churn modeling framework (classification + revenu\nregression) achieving 50% churn revenue capture by targeting top\ncustomers. Evaluated using precision-recall tradeoff to optimize\nbusiness ROI\n• Applied SHAP explainability techniques to identify churn drivers an\nsupport business decision-making\nData Science Engineer\nXPO\n• Automated BigQuery DDL generation via Python framework, facilit\n60 object deployments through enhanced API metadata extractio\ndata type mapping.\n• Developed IICS Taskflows for seamless integration of Salesforce an\nServiceNow with BigQuery, optimizing data processing workflows.\n• Implemented a BigQuery Command Center in Looker Studio to mon\nslot utilization and utilized insights to reduce overcapacity and save\n$120,000 annually through a 63% reduction in slot renewal budget\n• Developed and managed ETL/ELT data pipelines between Oracle\ndatabase and Google BigQuery\nGoogle Cloud Platform Admin\nXPO\n• Oversaw comprehensive deployments leveraging Cloud Composer\nAirflow), Cloud Run, and Cloud Functions.\n• Employed IAM roles for GBQ Management and Terraform for servic\naccount creation and management.\nEDUCATION\nM.Tech\nG\nIndian Institute of Technology Bombay\n9.58\n07/2019 - 06/2021 India\n• Developed a U-Net ResNet backbone) based semantic\nsegmentation model for land use & land cover classification o\nCopernicus/ESA satellite imagery\n• Implemented YOLOv3 object detection pipeline to identify ai\non airport runways during COVID mobility restrictions\n\ncom/in/mohitkumar-in\nKEY ACHIEVEMENTS\n Cost Optimization\nAchieved 63% BigQuery cost reduction,\n$120K annual savings through optimized\nivering\ndata operations\n Model Development\nImproved ETA prediction accuracy by 15%\nthrough innovative ML modeling\n Churn Revenue Capture\nSuccessfully captured 50% of churn revenue\nusing targeted machine learning strategies\nmented\nntic\nINDEPENDENT PROJECTS\nM\nEmail Automation:\n• Built intelligent agentic email assistant capable\nd\nof auto-replying, drafting, and ignoring emails\nnt\nusing LLM-based decision logic\n• Implemented a tool-based workflow with\nodel\nSendGrid, SQLite, Pub/Sub, and OpenAI SDK\n• Integrated Pushover notifications and ngrok-\nrtance\nbased webhook handling\n• Available at mohit@aiguru360.in for\nue\nexperience\np 20%\nAgentic Software Development\nnd • Designed a multi-agent orchestration system\nManager  Backend  Frontend  QA agents)\nusing CREW framework\n• Incorporated Docker-based execution\nvalidation to verify generated code\n• Demonstrated end-to-end autonomous\ntating software generation workflow\non and\nResume Chatbot\nnd\nhttps://huggingface.co/spaces/mhtkmr/professional\n-clone\nnitor\n• Built a Retrieval-Augmented Generation RAG\ne\npowered digital persona to answer career-\nt.\nrelated queries using FAISS and MiniLM-L6-v2\n• Developed conversational memory to maintain\nmulti-turn context and improve response\ncoherence\nSKILLS\nr\nGCP SQL SageMaker AWS\nce\nLangGraph Vertex AI ETL\nPySpark Airflow Docker\nGPA\nVectorDB Deep Learning Asyncio\n8 / 10.0\nCREW Google ADK PyTorch\non\nTensorFlow NLP Agentic AI LLM\nircraft",
+  "chunk_count": 9,
+  "chunks": [
+    {
+      "section": "SUMMARY",
+      "content": "SUMMARY\nData Scientist with 4.5 years of experience building and deploying\nproduction-grade machine learning systems on GCP. Specialized in\nregression, churn modeling, explainable AI, and LLM-based systems\nincluding Text2SQL and RAG architectures. Proven track record of deli\nmeasurable business impact, including 15% predictive accuracy\nimprovement and $120K annual cost savings.",
+      "char_count": 380
+    },
+    {
+      "section": "EXPERIENCE (part 1)",
+      "content": "EXPERIENCE Data Scientist XPO • Developed a Text2SQL Gemini LLM-chatbot with Database-Augm Generation. Enabled domain-specific SQL generation using Pydan schemas • Built a semantic-layer filtering mechanism to reduce irrelevant LLM context injection and improve query precision • Developed an LLM-based workflow for email classification and automated responses with intelligent document retrieval. Deployed serverlessly on Google Cloud Functions with Pub/Sub-based even processing, handling 10,000 emails per day • Engineered compound features and trained XGBoost regression mo Optuna tuned), achieving 15% improvement in exact-date ETA prediction accuracy. Performed cross-validation and feature impor analysis to ensure model robustness • Led a two-tiered churn modeling framework (classification + revenu regression) achieving 50% churn revenue capture by targeting top customers. Evaluated using precision-recall tradeoff to",
+      "char_count": 928
+    },
+    {
+      "section": "EXPERIENCE (part 2)",
+      "content": "modeling framework (classification + revenu regression) achieving 50% churn revenue capture by targeting top customers. Evaluated using precision-recall tradeoff to optimize business ROI • Applied SHAP explainability techniques to identify churn drivers an support business decision-making Data Science Engineer XPO • Automated BigQuery DDL generation via Python framework, facilit 60 object deployments through enhanced API metadata extractio data type mapping. • Developed IICS Taskflows for seamless integration of Salesforce an ServiceNow with BigQuery, optimizing data processing workflows. • Implemented a BigQuery Command Center in Looker Studio to mon slot utilization and utilized insights to reduce overcapacity and save $120,000 annually through a 63% reduction in slot renewal budget • Developed and managed ETL/ELT data pipelines between Oracle database and Google",
+      "char_count": 877
+    },
+    {
+      "section": "EXPERIENCE (part 3)",
+      "content": "through a 63% reduction in slot renewal budget • Developed and managed ETL/ELT data pipelines between Oracle database and Google BigQuery Google Cloud Platform Admin XPO • Oversaw comprehensive deployments leveraging Cloud Composer Airflow), Cloud Run, and Cloud Functions. • Employed IAM roles for GBQ Management and Terraform for servic account creation and management.",
+      "char_count": 371
+    },
+    {
+      "section": "EDUCATION",
+      "content": "EDUCATION\nM.Tech\nG\nIndian Institute of Technology Bombay\n9.58\n07/2019 - 06/2021 India\n• Developed a U-Net ResNet backbone) based semantic\nsegmentation model for land use & land cover classification o\nCopernicus/ESA satellite imagery\n• Implemented YOLOv3 object detection pipeline to identify ai\non airport runways during COVID mobility restrictions\n\ncom/in/mohitkumar-in",
+      "char_count": 370
+    },
+    {
+      "section": "KEY ACHIEVEMENTS",
+      "content": "KEY ACHIEVEMENTS\n Cost Optimization\nAchieved 63% BigQuery cost reduction,\n$120K annual savings through optimized\nivering\ndata operations\n Model Development\nImproved ETA prediction accuracy by 15%\nthrough innovative ML modeling\n Churn Revenue Capture\nSuccessfully captured 50% of churn revenue\nusing targeted machine learning strategies\nmented\nntic",
+      "char_count": 347
+    },
+    {
+      "section": "INDEPENDENT PROJECTS",
+      "content": "INDEPENDENT PROJECTS\nM\nEmail Automation:\n• Built intelligent agentic email assistant capable\nd\nof auto-replying, drafting, and ignoring emails\nnt\nusing LLM-based decision logic\n• Implemented a tool-based workflow with\nodel\nSendGrid, SQLite, Pub/Sub, and OpenAI SDK\n• Integrated Pushover notifications and ngrok-\nrtance\nbased webhook handling\n• Available at mohit@aiguru360.in for\nue",
+      "char_count": 382
+    },
+    {
+      "section": "experience",
+      "content": "experience\np 20%\nAgentic Software Development\nnd • Designed a multi-agent orchestration system\nManager  Backend  Frontend  QA agents)\nusing CREW framework\n• Incorporated Docker-based execution\nvalidation to verify generated code\n• Demonstrated end-to-end autonomous\ntating software generation workflow\non and\nResume Chatbot\nnd\nhttps://huggingface.co/spaces/mhtkmr/professional\n-clone\nnitor\n• Built a Retrieval-Augmented Generation RAG\ne\npowered digital persona to answer career-\nt.\nrelated queries using FAISS and MiniLM-L6-v2\n• Developed conversational memory to maintain\nmulti-turn context and improve response\ncoherence",
+      "char_count": 622
+    },
+    {
+      "section": "SKILLS",
+      "content": "SKILLS\nr\nGCP SQL SageMaker AWS\nce\nLangGraph Vertex AI ETL\nPySpark Airflow Docker\nGPA\nVectorDB Deep Learning Asyncio\n8 / 10.0\nCREW Google ADK PyTorch\non\nTensorFlow NLP Agentic AI LLM\nircraft",
+      "char_count": 189
+    }
+  ]
+}
